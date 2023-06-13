@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "source-map": "^0.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  }
+}
